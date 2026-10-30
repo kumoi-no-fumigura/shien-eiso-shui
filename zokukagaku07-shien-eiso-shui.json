@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shien-eiso-shui",
  "yomi": "しえんえいそうしゅうい",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸後期",
+  "author": "加納諸平（1806〜1857）",
+  "desc": "『柿園詠草』に漏れた諸平の歌の拾遺。中国の故事を題にした歌が多い。"
+ },
  "editions": [
   {
    "pid": "993385",
